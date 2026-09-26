@@ -1,4 +1,4 @@
-# Global Superstore Dashboard
+# India Crime Statistics Dashboard
 
 Crime Statistics Across India Dashboard | Power BI
 
